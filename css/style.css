@@ -1,0 +1,187 @@
+    @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700,900');
+
+    body{font-family: 'Montserrat', sans-serif;}
+
+
+
+
+   .navbar-expand-lg .navbar-nav .nav-link {
+                                             padding-right: 0;
+                                             padding-left: 28px;
+                                             color: rgb(54, 162, 5);
+                                             font-weight: 500;
+                                             text-transform: uppercase;}
+
+.navbar{ padding: 10px 0;}
+
+
+.banner-section{ background-image: url(../images/banner-8.jpg);
+                 background-size: cover;}
+
+
+.banner-section .row{ min-height: 570px; }
+
+.banner-section h1{
+                     font-weight: 600;
+                     color: #068a44;
+                     font-size: 40px;
+                     text-transform: uppercase;
+                     font-size: 35px;}
+.banner-section p{ margin-top: 0;
+                   margin-bottom: 1rem;
+                   color: #0e0e0e;
+                   font-weight: 500;}
+
+.banner-section input{    color: #212529;
+                          background-color: #fd8219;
+                          border-color: #ffc107;
+                          border-radius: 25px;}
+
+
+.category-section{ padding: 50px;}
+.category-section h1{
+                       font-weight: 600;
+                       text-transform: uppercase;
+                       font-size: 35px;}
+.category-section span{    height: 5px;
+                         display: block;
+                         background: #046363;
+                         width: 200px;
+                         margin: auto}
+                       
+
+
+
+
+.cat-1{    position: relative;}
+.cat-text{position: absolute;
+             bottom: 0;
+             left: 10px;
+             color: white;}
+.overlay-color{position: absolute;
+                   top: 0;
+                   left: 0;
+                   background-color: #8989f70a;
+                   height: 100%;
+                   width: 100%;}
+
+
+
+.our-deferences-section {padding: 50px;}
+.our-deferences-section h1{
+                             font-weight: 600;
+                             text-transform: uppercase;
+                             font-size: 35px;
+}
+.our-deferences-section span{   
+                             height: 5px;
+                             display: block;
+                             background: #046363;
+                             width: 200px;
+                             margin: auto;
+                         }
+
+
+
+.our-deferences-section{background-color: #dad5d5;}
+.our-deferences-section a{    font-size: 25px;
+                              display: block;
+                           text-align: center;
+                                                }
+.our-deferences-section h4{    font-weight: 500;
+                               color: black;
+                               text-transform: uppercase;
+                           font-size: 20px;}
+.our-deferences-section p{    font-size: 15px;
+                            color: black}
+
+
+
+
+.popular-courses-section{    padding: 50px 0;
+                           background-image: url(../images/11.jpg);}
+.popular-courses-section h1{    font-weight: 600;
+                             color: black;
+                             text-transform: uppercase;
+                             font-size: 35px;}
+.popular-courses-section i{padding-right: 59px;}
+
+.popular-courses-section a{    color: #f7eb0a;
+                             background: #034a3f;
+                             font-weight: 600;
+                               margin-left: 100px;}
+.popular-courses-section p{    color: black;}
+
+
+.up-coming-events-section{ padding: 50px;
+                           background: #dededd;}
+.up-coming-events-section h1{   font-weight: 600;
+                              text-transform: uppercase;
+                              font-size: 35px;}
+.up-coming-events-section i{padding-bottom: 15px;
+                            font-weight: 700;}
+.up-coming-events-section span{height: 5px;
+                                display: block;
+                                background: #046363;
+                                width: 200px;
+                                margin: auto;}
+
+.row{    padding: 20px;}
+.box-1{      background: green;
+               height: 185px;}
+.box-1 p{    margin-top: 25px;
+             text-align: center;
+             font-size: 31px;
+             font-weight: 600;
+             color: white;  }
+
+
+.box-2{    background: #f4f9f4;
+               height: 185px;}
+.box-2 p{    color: black;}
+.box-2 img{     height: 150px;
+    width: 150px;}
+
+
+
+
+
+.latest-news-section{ padding: 50px;}
+.latest-news-section h1{
+                       font-weight: 600;
+                       text-transform: uppercase;
+                       font-size: 35px;}
+.latest-news-section span{    height: 5px;
+                         display: block;
+                         background: #046363;
+                         width: 200px;
+                         margin: auto}
+
+.latest-news-section p{color: black;}
+.latest-news-section i{    padding-right: 60px;
+                        font-size: 16px;}
+
+
+.icon-section{padding: 20px;
+              background: #d2d0cd;}
+.icon-section a{    padding-right: 130px;
+                    padding-left: 85px;
+                    font-size: 50px;
+                    color: #4c5a29;}
+
+
+
+
+.information-section{padding: 50px;background: #2d2c2c;    color: #fff;}
+.information-section h4{padding-bottom: 10px}
+.information-section p{}
+.information-section a{padding-right: 10px}
+.information-section ul{list-style: none;}
+.information-section i{    padding-bottom: 20px;}
+.information-section img{padding-bottom: 18px;}
+
+
+
+.copyright-section{    background: #100f0f;}
+.copyright-section i{    color: #bb808a;}
+
